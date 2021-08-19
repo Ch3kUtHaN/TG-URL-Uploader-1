@@ -1,4 +1,4 @@
-## URL Uploader Bot
+## 📤 URL Uploader Bot 📤
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -32,7 +32,7 @@ python bot.py
 ## Our Telegram Channel and Group
 
 * [SL MEDIA TECH BOTS](https://t.me/sl_media_tech)
-* [SL MEDIA TTECH GROUP](https://t.me/SL_MEDIA_TECH_GRUOP)
+* [SL MEDIA TECH GROUP](https://t.me/SL_MEDIA_TECH_GRUOP)
 
 - For FeedBack and Suggestions, please feel free to say in [SL MEDIA TECH GROUP](https://t.me/SL_MEDIA_TECH_GRUOP)
 
