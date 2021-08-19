@@ -35,7 +35,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """🙋 Hai am URL Uploader bot..
+    HELP_USER = """🙋 Hai I am URL Uploader bot..
     
 1. Send url 🔗(Link|New Name with Extension).
 2. Send Custom Thumbnail 🖼(Optional).
